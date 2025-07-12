@@ -1,0 +1,7 @@
+Git Commands and for what we sue them
+
+Git clone - this command we sue for copy a remote repository to our local machine.
+
+git pull - this command we use for update our local repository with the latest changes from a remote repository.
+
+git status - 
