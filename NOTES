@@ -5,3 +5,30 @@ Git clone - this command we sue for copy a remote repository to our local machin
 git pull - this command we use for update our local repository with the latest changes from a remote repository.
 
 git status - 
+
+
+
+
+
+
+
+
+
+
+
+
+Docker
+why docker?
+docker run --name <image name>
+docker Run is registry
+docker start container
+kill -l = shows all flags
+docker ps =
+docker ps -a = shows exited containers
+docker pull =
+docker images =
+docker stope <container ID> =
+docker image ls = 
+-it = means interactive 
+docker exac
+docker inspect <container ID> =
